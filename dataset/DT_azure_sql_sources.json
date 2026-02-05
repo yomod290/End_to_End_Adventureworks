@@ -1,0 +1,12 @@
+{
+	"name": "DT_azure_sql_sources",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_sql_db_adventureworks",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
