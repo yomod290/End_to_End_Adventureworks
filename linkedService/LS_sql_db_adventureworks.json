@@ -8,10 +8,10 @@
 			"server": "devsqlserveradventureworks.database.windows.net",
 			"database": "DEV_SQL_ADVENTUREWORKS",
 			"encrypt": "mandatory",
-			"trustServerCertificate": false,
+			"trustServerCertificate": true,
 			"authenticationType": "SQL",
 			"userName": "adminsql",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDEyNkREODBBLUYwRjYtNEQ3Qi05NTNCLUE2Q0Y3RjJFQzQzRV9kNDMyZTc1OC1iMGRiLTQ3OTYtYWQyYy00OWViMDYzNWZlNWUiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDEyNkREODBBLUYwRjYtNEQ3Qi05NTNCLUE2Q0Y3RjJFQzQzRV9iZjI2ZGRkOC0zMDE4LTQ1MTAtOGFhNi0wMjYzYzM1MWZhZmQiDQp9"
 		}
 	}
 }
