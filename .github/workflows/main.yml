@@ -87,5 +87,6 @@ jobs:
             factoryName=adfprodadventureworks
             LS_adsl_bronze_properties_typeProperties_url=https://adslprodadventureworks.dfs.core.windows.net/
             LS_adsl_bronze_accountKey=${{ secrets.ADLS_PROD_ACCOUNT_KEY }}
+            LS_kv_adventureworks_properties_typeProperties_baseUrl=https://kv-prod-adventureworks.vault.azure.net/
 
 
