@@ -14,6 +14,9 @@
 > Arquitectura moderna de Data Engineering en Azure con separación de ambientes, procesamiento incremental, SCD Tipo 2 y CI/CD automatizado.
 
 ---
+<img width="1266" height="700" alt="image" src="https://github.com/user-attachments/assets/8c49be71-82ca-4e4a-addf-4647327d861a" />
+
+---
 
 # 📌 1. Descripción General
 
