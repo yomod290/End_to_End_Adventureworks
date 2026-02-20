@@ -1,6 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yonathanmontenegro/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/yomod290/End_to_End_Adventureworks)
-[![Notion Project](https://img.shields.io/badge/Notion-Project-black?logo=notion&logoColor=white)](https://yonathan-montenegro.notion.site/AdventureWorks-Azure-Lakehouse-DEV-PROD-ETL-End-to-End-2fcc4265055380a4832cd26f9ea11821)
+[![Notion Project](https://img.shields.io/badge/Notion-Project-black?logo=notion&logoColor=white)](https://yonathan-montenegro.notion.site/Northwind-Azure-Lakehouse-DEV-PROD-ETL-End-to-End-309c42650553807eab4dc231b72d8faa)
 [![Notion Portafolio](https://img.shields.io/badge/Notion-Portafolio-black?logo=notion&logoColor=white)](https://yonathan-montenegro.notion.site/portafolio-data-engineer)
 [![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![Databricks](https://img.shields.io/badge/Databricks-Lakehouse-EF3D2C?logo=databricks&logoColor=white)](https://www.databricks.com/)
